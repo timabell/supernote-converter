@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import supernotelib as sn
 import tkinter as tk
 from tkinter import filedialog, messagebox
