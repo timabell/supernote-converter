@@ -12,6 +12,12 @@ There is not much to say... the only "feature" at the moment is that the program
 ## Download
 Simply go to the [releases](https://github.com/francescoboc/supernote-converter/releases) page and follow the instructions.
 
+## Install prerequisites
+
+You need python (optionally via asdf-vm which is how I do it), and the pip modules.
+
+Run `setup.sh` to install python and the modules.
+
 ## Set up file association
 
 In the file browser set the default application to this, with your equivalent paths. Nemo doesn't like symlinks so you have to find the actual path
